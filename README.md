@@ -1,2 +1,2 @@
-# projeto-apeperia
-Arquivos do projeto para a Apeperia
+# responsive-layouts
+Site i made in the course Responsive Layouts.
