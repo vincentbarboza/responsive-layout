@@ -1,2 +1,2 @@
-# responsive-layout
- Site made in the course Responsive Layouts
+# projeto-apeperia
+Arquivos do projeto para a Apeperia
